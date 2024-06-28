@@ -1,12 +1,12 @@
 {
-    "captcha_key": "", 
-    "invite": "",
+    "captcha_key": "6LdvHQMqAAAAAH0MaeRH0gRF2Hv1Kg7eo1OICjRn", 
+    "invite": "https://discord.gg/qjrauC2h",
     "threads": 69,
     "proxy_scraper": "y",
 
     "online_tokens": "y",
 
     "join_voice": "n",
-    "channel_id": "",
-    "server_id": ""
+    "channel_id": "1210562733314015262",
+    "server_id": "1137036156656164895"
 }
